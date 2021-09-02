@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PraiseUadiale
 - 👀 I’m interested in Software Engineering, Blockchain Technologies and any idea/concept that solves a problem.
-- 🌱 I’m currently learning the Spring Boot Framework and integrating API's in systems
-- 💞️ I’m looking to collaborate on any projects however would add more value in the Backend component 
+- 🌱 I’m currently learning the Spring Boot Framework and developing proficiency with Java
+- 💞️ I’m looking to collaborate on Projects releated to Java, Python or the next big thing 
 - 📫 How to reach me: @prai53 on twitter
 
 <!---
