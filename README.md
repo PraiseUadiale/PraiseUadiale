@@ -1,12 +1,10 @@
 ## 👋 Hi there, I’m Praise
 
-I’m currently studying a degree in Computer Science. Here you can find some university and open-source projects I contribute to🙌
+I’m a CompSci Undergrad. Here you can find some of my university projects.🙌
 
-
-#### A bit about me
-- I regularly work with **Java**, **Spring**, **Python** for building bots, APIs and applications
-- Currently learning **Kubernetes**, **Docker** 📚
-- Interested in different concepts including blockchain, microservices.
+#### A bit about me 
+- I regularly work with **Java**, **Spring**, **Python** for building backend services.
+- Currently exploring **LangChain** and **Artifical Intelligence 📚
 
 I can be reached via
 [**LinkedIn**](https://www.linkedin.com/in/praise-uadiale/)
