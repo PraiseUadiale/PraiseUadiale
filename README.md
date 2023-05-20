@@ -4,7 +4,7 @@ I’m a CompSci Undergrad. Here you can find some of my university projects.🙌
 
 #### A bit about me 
 - I regularly work with **Java**, **Spring**, **Python** for building backend services.
-- Currently exploring **LangChain** and **Artifical Intelligence 📚
+- Currently exploring **LangChain** and **Artifical Intelligence** 📚
 
 I can be reached via
 [**LinkedIn**](https://www.linkedin.com/in/praise-uadiale/)
