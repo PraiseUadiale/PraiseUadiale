@@ -1,10 +1,10 @@
 ## 👋 Hi there, I’m Praise
 
-Engineeer working within FinTech. Here you can find some of my projects.🙌
+Backend Engineeer. Here you can find some of my projects
 
 #### A bit about me 
 - I regularly work with **Java** and **Python**.
-- Currently exploring **LLMs** and **All things Payments** 📚
+- Currently exploring **Agentic Coding** and **Logistics** 📚
 
 I can be reached via
 [**LinkedIn**](https://www.linkedin.com/in/praise-uadiale/)
